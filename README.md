@@ -1,4 +1,4 @@
-###Extarction from Wikipedia Infobox (Wikipedia XML Dump)
+### Extarction from Wikipedia Infobox (Wikipedia XML Dump)
 
 canonicalXXXXXXX.csv ----->  list infobox relations mapped to their canonical names.
 
