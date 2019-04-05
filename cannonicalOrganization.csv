@@ -1,0 +1,227 @@
+founders,founder
+founder,founder
+parent,parentOrganisation
+child,childOrganisation
+patron,patron
+head,head
+alumni,alumni
+headquarters,headquartersLocation
+hq_location_city,headquartersCity
+hq_location_country,headquartersCountry
+hq_location,headquartersLocation
+alliance,alliance
+predecessor,predecessor
+successor,successor
+owner,owner
+currentowner,currentOwner
+currentowners,currentOwner
+previousowners,previousOwner
+previousowner,previousOwner
+owners,owner
+country,country
+countries,country
+president,president
+vice-president,vicePresident
+vice president,vicePresident
+vicepresident,vicePresident
+executive vice president,executiveVicePresident
+associate vice president,associateVicePresident
+dean,dean
+director,director
+board_of_directors,boardOfDirectors
+founding_director,foundingDirector
+assistant_director,assistantDirector
+artistic_director,artisticDirector
+deputy_director,deputyDirector
+music_director,musicDirector
+music director,musicDirector
+city,city
+state,state
+location,locatedAt
+district,district
+province,province
+street,street
+locality,locality
+county,county
+operating_agency,operatingAgency
+principal,principal
+vice_principal,vicePrincipal
+founding_location,foundingLocation
+allies,allies
+rivals,rival
+notable_members,notableMember
+members,member
+former_members,formerMember
+current_members,currentMember
+past_members,formerMember
+associated_acts,band
+trainer,trainer
+hometown,hometown
+allegience,allegience
+commander,commander
+notable_commanders,notableCommander
+commander-in-chief,commanderInChief
+minister,minister
+ministername,minister
+minister1name,minister
+minister2name,minister
+minister3name,minister
+minister4name,minister
+minister5name,minister
+minister6name,minister
+deputyminister,deputyMinister
+chief minister,chiefMinister
+chairman,chairman
+co-chairman,coChairman
+vice-chairman,viceChairman
+1st vice chairman,viceChairman
+2nd vice chairman,viceChairman
+subsidiaries,subsidiary
+person,person
+ceo,chiefExecutiveOfficer
+coo,chiefOperatingOfficer
+curator,curator
+historian,historian
+architect,architect
+chairperson,chairperson
+co-chairperson,coChairperson
+vice-chairperson,viceChairperson
+chancellor,chancellor
+vice_chancellor,viceChancellor
+superintendent,superintendent
+jurisdiction,jurisdiction
+chiefjudge,chiefJudge
+chiefjudgename,chiefJudge
+chiefjudgename1,chiefJudge
+chiefjudgename2,chiefJudge
+chiefjudgename3,chiefJudge
+chiefjudgename4,chiefJudge
+administrator,administrator
+commissioner,commissioner
+chief,chief
+chiefname,chief
+chief1name,chief
+chief2name,chief
+chief3name,chief
+chief4name,chief
+chief5name,chief
+chief6name,chief
+warden,warden
+governor,governor
+supremegovernor,supremeGovernor
+Coach,coach
+coach,coach
+womenscoach,womanCoach
+head_coach,headCoach
+headcoach,headCoach
+Asst Coach,assistantCoach
+Assistant coach,assistantCoach
+Captain,captain
+captain,captain
+Most caps,mostCaps
+caps,mostCaps
+Most games,mostCaps
+Top scorer,topScorer
+top scorer,topScorer
+Most goals,topScorer
+Most points,topScorer
+top_goalscorer,topScorer
+Home Stadium,homeStadium
+ground,ground
+arena,arena
+stadium,stadium
+formerground,formerGround
+trainingground,trainingGround
+home_ground,homeGround
+federation,federation
+Association,associations
+association,associations
+manager,manager
+managers,manager
+general_manager,generalManager
+GM,generalManager
+General manager,generalManager
+generalmanager,generalManager
+company_manager,companyManager
+managing_director,managingDirector
+teammanager,teamManager
+orchestra manager,orchestraManager
+union,union
+unions,union
+region,region
+chiefexec,chiefExecutive
+chief_executive,chiefExecutive
+sponsor,sponsor
+main_sponsor,sponsor
+producedby,producer
+ambassadors,ambassador
+drivers,driver
+current drivers,currentDriver
+manufacturer,manufacturer
+university,university
+cis,university
+CIS,university
+people,people
+key_people,keyPeople
+keypeople,keyPeople
+editor,editor
+chiefeditor,chiefEditor
+depeditor,deputyEditor
+assoceditor,associateEditor
+maneditor,managingEditor
+newseditor,newsEditor
+managingeditordesign,managingEditorDesign
+campuseditor,campusEditor
+metroeditor,metroEditor
+opeditor,opinionEditor
+sportseditor,sportsEditor
+photoeditor,photoEditor
+staff_writer,staffWriter
+photographer,photographer
+publisher,publisher
+publishing_city,publishingCity
+publishing_country,publishingCountry
+sister newspaper,sisterNewspaper
+creator,creator
+company,company
+parent_company,parentCompany
+sister_company,sisterCompany
+parentagency,parentAgency
+parent_agency,parentAgency
+parent_organization,parentOrganisation
+parent_organisation,parentOrganisation
+childagency,childAgency
+child1agency,childAgency
+child2agency,childAgency
+child3agency,childAgency
+child4agency,childAgency
+child5agency,childAgency
+child6agency,childAgency
+secretary,secretary
+first_secretary,firstSecretary
+spokesperson,spokesperson
+choreographers,choreographers
+founding_choreographers,foundingChoreographers
+coordinator,coordinator
+ballet_master_in_chief,balletMasterInChief
+ballet_masters,balletMaster
+ballet_mistress,balletMistress
+principal_conductor,ChiefConductor
+chief conductor,ChiefConductor
+choirmaster,choirmaster
+organist,organist
+concert_hall,concertHall
+leader,leader
+senateleader,senateLeader
+houseleader,houseLeader
+deputy leader,deputyLeader
+origin,origin
+current_head,currentHead
+final_ruler,finalRuler
+final_head,finalHead
+connected_members,connectedMembers
+other_families,family
+estate,estate
+most_champs,mostTitles
+organiser,organiser
+league,league

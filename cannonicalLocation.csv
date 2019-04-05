@@ -1,0 +1,183 @@
+location,locatedAt
+location2,locatedAt
+location3,locatedAt
+location_city,city
+location_country,country
+other-locations,locatedAt
+governing body,governingBody
+founder,founder
+founded_by,founder
+funded_by,fundedBy
+director,director
+president,president
+ceo,chiefExecutiveOfficer
+chairperson,chairperson
+governor,governor
+warden,warden
+curator,curator
+historian,historian
+restored_by,restoredBy
+capital,capitalCity
+country capital,countryCapital
+country 1 capital,countryCapital
+country 2 capital,countryCapital
+leader,leader
+leaders,leader
+leader1,leader
+leader2,leader
+leader3,leader
+leader4,leader
+leader5,leader
+country leader name,leader
+leader_name,leader
+leader1_name,leader
+leader2_name,leader
+leader3_name,leader
+leader4_name,leader
+leader5_name,leader
+leader_name1,leader
+leader_name2,leader
+leader_name3,leader
+leader_name4,leader
+leader_name5,leader
+country leader name,leader
+country 1 leader name,leader
+country 2 leader name,leader
+leadership,leader
+party1,leaderParty
+party2,leaderParty
+party3,leaderParty
+party4,leaderParty
+party5,leaderParty
+leader_party,leaderParty
+representative1,representative
+representative2,representative
+representative3,representative
+representative4,representative
+representative5,representative
+deputy1,deputy
+deputy2,deputy
+deputy3,deputy
+deputy4,deputy
+deputy5,deputy
+mayor,mayor
+Mayor,mayor
+country,country
+countries,country
+subdivision_name1,state
+subdivision_name,country
+state,state
+subdivision_name2,district
+county,county
+County,county
+region,region
+district,district
+districts,district
+place,locatedAt
+city,city
+nearest_city,nearestCity
+nearest_town,nearestCity
+subdivision_name3,city
+city-served,cityServed
+hub,airlineHub
+designer,designer
+designer1,designer
+designer2,designer
+designer3,designer
+designer4,designer
+designer5,designer
+designer6,designer
+designer7,designer
+designer8,designer
+designer9,designer
+other_designers,designer
+ren_oth_designers,designer
+ldesigner,designer
+administrator,administrator
+manager,manager
+operator,operator
+general_manager,generalManager
+owner,owner
+owners,owner
+current-owner,currentOwner
+previous-owner,previousOwner
+owned,owner
+present_owner,currentOwner
+client,client
+landlord,landlord
+built_by,builtBy
+maintained_by,maintainedBy
+architect,architect
+ren_architect,architect
+architecture_firm,architectureFirm
+ren_firm,architectureFirm
+developer,developer
+engineer,engineer
+structural_engineer,structuralEngineer
+structural engineer,structuralEngineer
+services_engineer,servicesEngineer
+services engineer,servicesEngineer
+civil_engineer,civilEngineer
+civil engineer,civilEngineer
+ren_engineer,engineer
+ren_str_engineer,structuralEngineer
+ren_serv_engineer,servicesEngineer
+ren_civ_engineer,civilEngineer
+a_engineer,engineer
+surveyor,surveyor
+quantity_surveyor,quantitySurveyor
+ren_qty_surveyor,quantitySurveyor
+builder,builder
+contractor,contractor
+main_contractor,contractor
+ren_contractor,contractor
+general_contractor,contractor
+main contractor,contractor
+general contractor,contractor
+largest_city,largestCity
+country largest city,largestCity
+country 1 largest city,largestCity
+country 2 largest city,largestCity
+maint,maintainedBy
+archaeologists,archaeologist
+legislature,legislativeBody
+upper_house,upperHouse
+house1,house1
+lower_house,lowerHouse
+house2,house2
+commander,commander
+occupants,tenant
+key_people,keyPeople
+people,keyPeople
+patron,patron
+patrons,patron
+organization,operator
+organisation,operator
+bishop,bishop
+bishops,bishop
+archbishop,archBishop
+past bishop,bishop
+auxillary bishop,auxillaryBishop
+auxillary bishops,auxillaryBishop
+pastor,pastor
+seniorpastor,seniorPastor
+musicgroup,musicGroup
+abbot,abbot
+archdeon,archdeon
+chef,chef
+head-chef,headChef
+pastry-chef,pastryChef
+train_operators,trainOperator
+bus_operators,busOperator
+club,club
+home club,homeClub
+county club,countyClub
+home clubs,homeClub
+tenants,tenant
+highways,highway
+Highways,highway
+rivers,river
+oceans,ocean
+seas,ocean
+nav,navigationAuthority
+company,ownerCompany
