@@ -1,4 +1,5 @@
-### Extarction from Wikipedia Infobox (Wikipedia XML Dump)
+# Information Extarction from Wikipedia Infobox
+## Using the extracted information for generated Knowledge Graph for Person, Organization, and Location entities
 
 canonicalXXXXXXX.csv ----->  list infobox relations mapped to their canonical names.
 
