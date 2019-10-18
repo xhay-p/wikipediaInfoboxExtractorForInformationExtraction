@@ -1,5 +1,5 @@
 # Information Extarction from Wikipedia Infobox
-## Using the extracted information for generated Knowledge Graph for Person, Organization, and Location entities
+## Using the extracted information for generating Knowledge Graph for Person, Organization, and Location entities
 
 canonicalXXXXXXX.csv ----->  list infobox relations mapped to their canonical names.
 
