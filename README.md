@@ -14,8 +14,8 @@ Using the extracted information for generating Knowledge Graph for Person, Organ
 
 5. dump.py -----> helper file to dump pickle dictionary and dictionary into csv file.
 
-6. extract_all.py -----> extract all required information from a wikipedia xml dump.
-	input : wikipedia xml dump
+6. extract_all.py -----> extract all required information from a wikipedia xml dump. <br>
+	input : wikipedia xml dump <br>
 	output : dictionary :: 
 		1. all.pickle
 			key - title
